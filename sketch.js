@@ -86,10 +86,7 @@ function draw() // loop ==  tudo dentro
   
 }
 
-function vForce()
-{
-  Matter.Body.applyForce(ball,{x:0,y:0},{x:0,y:-0.05});
-}
+// CRIE A FUNÇÃO QUE APLICA FORÇA
   
 
 
